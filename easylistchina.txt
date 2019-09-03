@@ -15,4 +15,6 @@
 ! Please report any unblocked adverts or problems
 ! in the forums (http://abpchina.org/forum/)
 ! or via e-mail (easylist.china@gmail.com).
-||flycloud.cc/*.jpg
+
+!--aqdlt.vip
+||cdn.k1815.com/files/h5/*.js
