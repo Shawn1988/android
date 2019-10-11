@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: Cpbx0a9rPLE65Nzaestw8w
-! Version: 201907300300
+! Version: 201910101031
 ! Title: EasyList China+EasyList
-! Last modified: 30 Jul 2019 03:00 UTC
+! Last modified: 10 Oct 2019 10:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 !
@@ -18,3 +18,4 @@
 
 !--aqdlt.vip
 ||cdn.k1815.com/files/h5/*.js
+||phoenixos.com
